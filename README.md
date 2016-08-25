@@ -7,4 +7,5 @@ Some notes:
  * There is no support for generating the schedule for the whole conference, but only for generating the schedule of each separate day of the conference.
 
 To generate the schedule for the first day of the conference:
+
 `python main.py input/schedule.xml 0 > output/first.html`
