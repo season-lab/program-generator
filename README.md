@@ -1,4 +1,4 @@
-This repository provides few scripts/files that can be used for generating a conference program. They have been developed for ECOOP 2016.
+This repository provides few scripts/files that can be used for generating a conference program using the data exported from conf.researchr.org. They have been developed for ECOOP 2016.
 
 Some notes:
  * Input file is a ACM DL Mobile app XML containing details about sessions/talks of a conference. It can be exported from the conf.researchr.org using the Dashboard > General Data > Data Export. See input/schedule.xml for an example.
